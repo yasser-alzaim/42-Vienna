@@ -1,0 +1,781 @@
+
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+Searching for "debian.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/debian.vim"
+Searching for "/var/lib/vim/addons/debian.vim"
+Searching for "/etc/vim/debian.vim"
+Searching for "/usr/share/vim/vimfiles/debian.vim"
+Searching for "/usr/share/vim/vim82/debian.vim"
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 8: sourcing "/usr/share/vim/vim82/debian.vim"
+finished sourcing /usr/share/vim/vim82/debian.vim
+continuing in /usr/share/vim/vimrc
+Searching for "/usr/share/vim/vimfiles/after/debian.vim"
+Searching for "/etc/vim/after/debian.vim"
+Searching for "/var/lib/vim/addons/after/debian.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/debian.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim82/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/syntax/synload.vim"
+Searching for "/var/lib/vim/addons/syntax/synload.vim"
+Searching for "/etc/vim/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim82/syntax/synload.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim82/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/etc/vim/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim82/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+Searching for "colors/lists/default.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/colors/lists/default.vim"
+Searching for "/var/lib/vim/addons/colors/lists/default.vim"
+Searching for "/etc/vim/colors/lists/default.vim"
+Searching for "/usr/share/vim/vimfiles/colors/lists/default.vim"
+Searching for "/usr/share/vim/vim82/colors/lists/default.vim"
+chdir(/usr/share/vim/vim82/colors/lists)
+fchdir() to previous dir
+line 53: sourcing "/usr/share/vim/vim82/colors/lists/default.vim"
+finished sourcing /usr/share/vim/vim82/colors/lists/default.vim
+continuing in /usr/share/vim/vim82/syntax/syncolor.vim
+Searching for "/usr/share/vim/vimfiles/after/colors/lists/default.vim"
+Searching for "/etc/vim/after/colors/lists/default.vim"
+Searching for "/var/lib/vim/addons/after/colors/lists/default.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/colors/lists/default.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+continuing in /usr/share/vim/vim82/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/etc/vim/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/synload.vim
+continuing in /usr/share/vim/vim82/syntax/syntax.vim
+Searching for "filetype.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/etc/vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim82/filetype.vim"
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim82/filetype.vim"
+Searching for "ftdetect/*.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/etc/vim/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim82/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/etc/vim/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim82/filetype.vim
+continuing in /usr/share/vim/vim82/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/etc/vim/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/filetype.vim"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+calling <SNR>4_SynSet
+
+<SNR>4_SynSet returning #0
+
+continuing in Syntax Autocommands for "*"
+
+Executing BufRead Autocommands for "*.c"
+autocommand call dist#ft#FTlpc()
+
+Searching for "autoload/dist/ft.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/autoload/dist/ft.vim"
+Searching for "/var/lib/vim/addons/autoload/dist/ft.vim"
+Searching for "/etc/vim/autoload/dist/ft.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/dist/ft.vim"
+Searching for "/usr/share/vim/vim82/autoload/dist/ft.vim"
+chdir(/usr/share/vim/vim82/autoload/dist)
+fchdir() to previous dir
+line 0: sourcing "/usr/share/vim/vim82/autoload/dist/ft.vim"
+finished sourcing /usr/share/vim/vim82/autoload/dist/ft.vim
+continuing in BufRead Autocommands for "*.c"
+calling dist#ft#FTlpc
+
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+calling <SNR>4_SynSet
+
+Searching for "syntax/c.vim syntax/c/*.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/syntax/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/syntax/c/*.vim"
+Searching for "/var/lib/vim/addons/syntax/c.vim"
+Searching for "/var/lib/vim/addons/syntax/c/*.vim"
+Searching for "/etc/vim/syntax/c.vim"
+Searching for "/etc/vim/syntax/c/*.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/c.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/c/*.vim"
+Searching for "/usr/share/vim/vim82/syntax/c.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim82/syntax/c.vim"
+finished sourcing /usr/share/vim/vim82/syntax/c.vim
+continuing in <SNR>4_SynSet
+Searching for "/usr/share/vim/vim82/syntax/c/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/syntax/c.vim"
+Searching for "/usr/share/vim/vimfiles/after/syntax/c/*.vim"
+Searching for "/etc/vim/after/syntax/c.vim"
+Searching for "/etc/vim/after/syntax/c/*.vim"
+Searching for "/var/lib/vim/addons/after/syntax/c.vim"
+Searching for "/var/lib/vim/addons/after/syntax/c/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/syntax/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/syntax/c/*.vim"
+<SNR>4_SynSet returning #0
+
+continuing in Syntax Autocommands for "*"
+
+Executing Syntax Autocommands for "c"
+autocommand if (exists('b:load_doxygen_syntax') && b:load_doxygen_syntax)^I|| (exists('g:load_doxygen_syntax') && g:load_doxygen_syntax)   | runtime! syntax/doxygen.vim | endif
+
+dist#ft#FTlpc returning #0
+
+continuing in BufRead Autocommands for "*.c"
+
+Executing BufRead Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufRead Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf FALLBACK conf | endif
+
+finished sourcing /usr/share/vim/vim82/syntax/syntax.vim
+continuing in /usr/share/vim/vimrc
+chdir(/etc/vim)
+fchdir() to previous dir
+line 53: sourcing "/etc/vim/vimrc.local"
+finished sourcing /etc/vim/vimrc.local
+continuing in /usr/share/vim/vimrc
+finished sourcing $VIM/vimrc
+chdir(/nfs/homes/malzaim)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+Searching for "autoload/plug.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/autoload/plug.vim"
+chdir(/nfs/homes/malzaim/.vim/autoload)
+fchdir() to previous dir
+line 1: sourcing "/nfs/homes/malzaim/.vim/autoload/plug.vim"
+calling <SNR>12_split_rtp
+
+<SNR>12_split_rtp returning ['/nfs/homes/malzaim/.vim', '/var/lib/...fter', '/nfs/homes/malzaim/.vim/after']
+
+continuing in /nfs/homes/malzaim/.vim/autoload/plug.vim
+
+calling <SNR>12_escrtp
+
+<SNR>12_escrtp returning '/nfs/homes/malzaim/.vim'
+
+continuing in /nfs/homes/malzaim/.vim/autoload/plug.vim
+
+calling <SNR>12_split_rtp
+
+<SNR>12_split_rtp returning ['/nfs/homes/malzaim/.vim', '/var/lib/...fter', '/nfs/homes/malzaim/.vim/after']
+
+continuing in /nfs/homes/malzaim/.vim/autoload/plug.vim
+
+calling <SNR>12_escrtp
+
+<SNR>12_escrtp returning '/nfs/homes/malzaim/.vim/after'
+
+continuing in /nfs/homes/malzaim/.vim/autoload/plug.vim
+
+finished sourcing /nfs/homes/malzaim/.vim/autoload/plug.vim
+continuing in /nfs/homes/malzaim/.vimrc
+calling plug#begin
+
+calling <SNR>12_plug_expand
+
+calling <SNR>12_plug_call
+
+<SNR>12_plug_call returning '/nfs/homes/malzaim/.vim/plugged'
+
+continuing in <SNR>12_plug_expand
+
+<SNR>12_plug_expand returning '/nfs/homes/malzaim/.vim/plugged'
+
+continuing in plug#begin
+
+calling <SNR>12_plug_fnamemodify
+
+calling <SNR>12_plug_call
+
+<SNR>12_plug_call returning '/nfs/homes/malzaim/.vim/plugged/'
+
+continuing in <SNR>12_plug_fnamemodify
+
+<SNR>12_plug_fnamemodify returning '/nfs/homes/malzaim/.vim/plugged/'
+
+continuing in plug#begin
+
+calling <SNR>12_path
+
+calling <SNR>12_trim
+
+<SNR>12_trim returning '/nfs/homes/malzaim/.vim/plugged'
+
+continuing in <SNR>12_path
+
+<SNR>12_path returning '/nfs/homes/malzaim/.vim/plugged'
+
+continuing in plug#begin
+
+calling <SNR>12_plug_fnamemodify
+
+calling <SNR>12_plug_call
+
+<SNR>12_plug_call returning 'plugged'
+
+continuing in <SNR>12_plug_fnamemodify
+
+<SNR>12_plug_fnamemodify returning 'plugged'
+
+continuing in plug#begin
+
+calling <SNR>12_define_commands
+
+<SNR>12_define_commands returning #0
+
+continuing in plug#begin
+
+plug#begin returning #1
+
+continuing in /nfs/homes/malzaim/.vimrc
+
+calling plug#
+
+calling <SNR>12_trim
+
+<SNR>12_trim returning 'cacharle/c_formatter_42.vim'
+
+continuing in plug#
+
+calling <SNR>12_plug_fnamemodify
+
+calling <SNR>12_plug_call
+
+<SNR>12_plug_call returning 'c_formatter_42.vim'
+
+continuing in <SNR>12_plug_fnamemodify
+
+<SNR>12_plug_fnamemodify returning 'c_formatter_42.vim'
+
+continuing in plug#
+
+calling <SNR>12_infer_properties
+
+calling <SNR>12_is_local_plug
+
+<SNR>12_is_local_plug returning #0
+
+continuing in <SNR>12_infer_properties
+
+calling <SNR>12_dirpath
+
+<SNR>12_dirpath returning '/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/'
+
+continuing in <SNR>12_infer_properties
+
+<SNR>12_infer_properties returning {'uri': 'https://git::@github.com/cach...zaim/.vim/plugged/c_formatter_42.vim/'}
+
+continuing in plug#
+
+plug# returning #0
+
+continuing in /nfs/homes/malzaim/.vimrc
+
+calling plug#end
+
+Searching for "ftoff.vim" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/ftoff.vim"
+Searching for "/var/lib/vim/addons/ftoff.vim"
+Searching for "/etc/vim/ftoff.vim"
+Searching for "/usr/share/vim/vimfiles/ftoff.vim"
+Searching for "/usr/share/vim/vim82/ftoff.vim"
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 14: sourcing "/usr/share/vim/vim82/ftoff.vim"
+finished sourcing /usr/share/vim/vim82/ftoff.vim
+continuing in plug#end
+Searching for "/usr/share/vim/vimfiles/after/ftoff.vim"
+Searching for "/etc/vim/after/ftoff.vim"
+Searching for "/var/lib/vim/addons/after/ftoff.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftoff.vim"
+calling <SNR>12_lazy
+
+<SNR>12_lazy returning #0
+
+continuing in plug#end
+
+calling <SNR>12_lazy
+
+<SNR>12_lazy returning #0
+
+continuing in plug#end
+
+calling <SNR>12_reorg_rtp
+
+calling <SNR>12_loaded_names
+
+<SNR>12_loaded_names returning ['c_formatter_42.vim']
+
+continuing in <SNR>12_reorg_rtp
+
+calling <SNR>12_rtp
+
+calling <SNR>12_path
+
+calling <SNR>12_trim
+
+<SNR>12_trim returning '/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim'
+
+continuing in <SNR>12_path
+
+<SNR>12_path returning '/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim'
+
+continuing in <SNR>12_rtp
+
+<SNR>12_rtp returning '/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim'
+
+continuing in <SNR>12_reorg_rtp
+
+<SNR>12_reorg_rtp returning #0
+
+continuing in plug#end
+
+Searching for "filetype.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/filetype.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/etc/vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim82/filetype.vim"
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 83: sourcing "/usr/share/vim/vim82/filetype.vim"
+Searching for "ftdetect/*.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/ftdetect/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/etc/vim/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim82/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/etc/vim/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim82/filetype.vim
+continuing in plug#end
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/etc/vim/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/ftplugin.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/ftplugin.vim"
+Searching for "/var/lib/vim/addons/ftplugin.vim"
+Searching for "/etc/vim/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim82/ftplugin.vim"
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 83: sourcing "/usr/share/vim/vim82/ftplugin.vim"
+finished sourcing /usr/share/vim/vim82/ftplugin.vim
+continuing in plug#end
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/etc/vim/after/ftplugin.vim"
+Searching for "/var/lib/vim/addons/after/ftplugin.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/indent.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/indent.vim"
+Searching for "/var/lib/vim/addons/indent.vim"
+Searching for "/etc/vim/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim82/indent.vim"
+chdir(/usr/share/vim/vim82)
+fchdir() to previous dir
+line 83: sourcing "/usr/share/vim/vim82/indent.vim"
+finished sourcing /usr/share/vim/vim82/indent.vim
+continuing in plug#end
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/etc/vim/after/indent.vim"
+Searching for "/var/lib/vim/addons/after/indent.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/indent.vim"
+plug#end returning #0
+
+continuing in /nfs/homes/malzaim/.vimrc
+
+finished sourcing $HOME/.vimrc
+Searching for "pack/*/start/*" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/pack/*/start/*"
+Searching for "/var/lib/vim/addons/pack/*/start/*"
+Searching for "/etc/vim/pack/*/start/*"
+Searching for "/usr/share/vim/vimfiles/pack/*/start/*"
+Searching for "/usr/share/vim/vim82/pack/*/start/*"
+Searching for "/usr/share/vim/vimfiles/after/pack/*/start/*"
+Searching for "/etc/vim/after/pack/*/start/*"
+Searching for "/var/lib/vim/addons/after/pack/*/start/*"
+Searching for "/nfs/homes/malzaim/.vim/after/pack/*/start/*"
+not found in 'packpath': "pack/*/start/*"
+Searching for "plugin/**/*.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/plugin/**/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/plugin/**/*.vim"
+chdir(/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/plugin)
+fchdir() to previous dir
+sourcing "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/plugin/c_formatter_42.vim"
+                                                                                       Installing c_formatter_42
+:!pip3 install --user c-formatter-42
+
+Calling shell to execute: "pip3 install --user c-formatter-42"
+
+
+finished sourcing /nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/plugin/c_formatter_42.vim
+Searching for "/var/lib/vim/addons/plugin/**/*.vim"
+Searching for "/etc/vim/plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim82/plugin/**/*.vim"
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim82/plugin/gzip.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/logiPat.vim"
+finished sourcing /usr/share/vim/vim82/plugin/logiPat.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/manpager.vim"
+finished sourcing /usr/share/vim/vim82/plugin/manpager.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim82/plugin/matchparen.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim82/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim82/plugin/spellfile.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/stdheader.vim"
+finished sourcing /usr/share/vim/vim82/plugin/stdheader.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim82/plugin/tohtml.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim82/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim82/plugin/zipPlugin.vim
+Searching for "pack/*/start/*" in "/nfs/homes/malzaim/.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/pack/*/start/*"
+Searching for "/var/lib/vim/addons/pack/*/start/*"
+Searching for "/etc/vim/pack/*/start/*"
+Searching for "/usr/share/vim/vimfiles/pack/*/start/*"
+Searching for "/usr/share/vim/vim82/pack/*/start/*"
+Searching for "/usr/share/vim/vimfiles/after/pack/*/start/*"
+Searching for "/etc/vim/after/pack/*/start/*"
+Searching for "/var/lib/vim/addons/after/pack/*/start/*"
+Searching for "/nfs/homes/malzaim/.vim/after/pack/*/start/*"
+not found in 'packpath': "pack/*/start/*"
+Searching for "plugin/**/*.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/etc/vim/after/plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/after/plugin/**/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/plugin/**/*.vim"
+not found in 'runtimepath': "plugin/**/*.vim"
+Reading viminfo file "/nfs/homes/malzaim/.viminfo" info oldfiles
+"ft_strlen.c" 
+"ft_strlen.c" 30L, 1107B
+Reading viminfo file "/nfs/homes/malzaim/.viminfo" marks
+Executing BufRead Autocommands for "*.c"
+autocommand call dist#ft#FTlpc()
+
+calling dist#ft#FTlpc
+
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+calling <SNR>4_SynSet
+
+Searching for "syntax/c.vim syntax/c/*.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/syntax/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/syntax/c/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/syntax/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/syntax/c/*.vim"
+Searching for "/var/lib/vim/addons/syntax/c.vim"
+Searching for "/var/lib/vim/addons/syntax/c/*.vim"
+Searching for "/etc/vim/syntax/c.vim"
+Searching for "/etc/vim/syntax/c/*.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/c.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/c/*.vim"
+Searching for "/usr/share/vim/vim82/syntax/c.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim82/syntax/c.vim"
+finished sourcing /usr/share/vim/vim82/syntax/c.vim
+continuing in <SNR>4_SynSet
+Searching for "/usr/share/vim/vim82/syntax/c/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/syntax/c.vim"
+Searching for "/usr/share/vim/vimfiles/after/syntax/c/*.vim"
+Searching for "/etc/vim/after/syntax/c.vim"
+Searching for "/etc/vim/after/syntax/c/*.vim"
+Searching for "/var/lib/vim/addons/after/syntax/c.vim"
+Searching for "/var/lib/vim/addons/after/syntax/c/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/syntax/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/syntax/c/*.vim"
+<SNR>4_SynSet returning #0
+
+continuing in Syntax Autocommands for "*"
+
+Executing Syntax Autocommands for "c"
+autocommand if (exists('b:load_doxygen_syntax') && b:load_doxygen_syntax)^I|| (exists('g:load_doxygen_syntax') && g:load_doxygen_syntax)   | runtime! syntax/doxygen.vim | endif
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+calling <SNR>14_LoadFTPlugin
+
+Searching for "ftplugin/c.vim ftplugin/c_*.vim ftplugin/c/*.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/ftplugin/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/ftplugin/c_*.vim"
+Searching for "/nfs/homes/malzaim/.vim/ftplugin/c/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/ftplugin/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/ftplugin/c_*.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/ftplugin/c/*.vim"
+Searching for "/var/lib/vim/addons/ftplugin/c.vim"
+Searching for "/var/lib/vim/addons/ftplugin/c_*.vim"
+Searching for "/var/lib/vim/addons/ftplugin/c/*.vim"
+Searching for "/etc/vim/ftplugin/c.vim"
+Searching for "/etc/vim/ftplugin/c_*.vim"
+Searching for "/etc/vim/ftplugin/c/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/c.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/c_*.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin/c/*.vim"
+Searching for "/usr/share/vim/vim82/ftplugin/c.vim"
+chdir(/usr/share/vim/vim82/ftplugin)
+fchdir() to previous dir
+line 17: sourcing "/usr/share/vim/vim82/ftplugin/c.vim"
+finished sourcing /usr/share/vim/vim82/ftplugin/c.vim
+continuing in <SNR>14_LoadFTPlugin
+Searching for "/usr/share/vim/vim82/ftplugin/c_*.vim"
+Searching for "/usr/share/vim/vim82/ftplugin/c/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftplugin/c.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftplugin/c_*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftplugin/c/*.vim"
+Searching for "/etc/vim/after/ftplugin/c.vim"
+Searching for "/etc/vim/after/ftplugin/c_*.vim"
+Searching for "/etc/vim/after/ftplugin/c/*.vim"
+Searching for "/var/lib/vim/addons/after/ftplugin/c.vim"
+Searching for "/var/lib/vim/addons/after/ftplugin/c_*.vim"
+Searching for "/var/lib/vim/addons/after/ftplugin/c/*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftplugin/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftplugin/c_*.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/ftplugin/c/*.vim"
+<SNR>14_LoadFTPlugin returning #0
+
+continuing in FileType Autocommands for "*"
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+calling <SNR>15_LoadIndent
+
+Searching for "indent/c.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/indent/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/indent/c.vim"
+Searching for "/var/lib/vim/addons/indent/c.vim"
+Searching for "/etc/vim/indent/c.vim"
+Searching for "/usr/share/vim/vimfiles/indent/c.vim"
+Searching for "/usr/share/vim/vim82/indent/c.vim"
+chdir(/usr/share/vim/vim82/indent)
+fchdir() to previous dir
+line 14: sourcing "/usr/share/vim/vim82/indent/c.vim"
+finished sourcing /usr/share/vim/vim82/indent/c.vim
+continuing in <SNR>15_LoadIndent
+Searching for "/usr/share/vim/vimfiles/after/indent/c.vim"
+Searching for "/etc/vim/after/indent/c.vim"
+Searching for "/var/lib/vim/addons/after/indent/c.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/indent/c.vim"
+<SNR>15_LoadIndent returning #0
+
+continuing in FileType Autocommands for "*"
+
+Executing FileType Autocommands for "c"
+autocommand command! CFormatter42 call s:CFormatter42()
+
+Executing FileType Autocommands for "c"
+autocommand nnoremap <F2> :CFormatter42<CR>
+
+Executing FileType Autocommands for "c"
+autocommand command! Norminette call s:Norminette()
+
+dist#ft#FTlpc returning #0
+
+continuing in BufRead Autocommands for "*.c"
+
+Executing BufRead Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufRead Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf FALLBACK conf | endif
+
+Executing BufEnter Autocommands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+calling <SNR>22_LocalBrowse
+
+<SNR>22_LocalBrowse returning #0
+
+continuing in BufEnter Autocommands for "*"
+
+Executing VimEnter Autocommands for "*"
+autocommand sil call s:VimEnter(expand("<amatch>"))
+
+calling <SNR>22_VimEnter
+
+calling <lambda>1
+
+calling <SNR>22_LocalBrowse
+
+<SNR>22_LocalBrowse returning #0
+
+continuing in <lambda>1
+
+chdir(/nfs/homes/malzaim/c04/ex00)
+<lambda>1 returning '^@calling <SNR>22_LocalBrowse^@^@<SNR...urning #0^@^@continuing in <lambda>1^@'
+
+continuing in <SNR>22_VimEnter
+
+<SNR>22_VimEnter returning #0
+
+continuing in VimEnter Autocommands for "*"
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+calling <SNR>21_Highlight_Matching_Pair
+
+calling <SNR>21_Remove_Matches
+
+<SNR>21_Remove_Matches returning #0
+
+continuing in <SNR>21_Highlight_Matching_Pair
+
+<SNR>21_Highlight_Matching_Pair returning #0
+
+continuing in CursorMoved Autocommands for "*"
+
+E78: Unknown mark
+Searching for "syntax/syncolor.vim" in "/nfs/homes/malzaim/.vim,/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim,/var/lib/vim/addons,/etc/vim,/usr/share/vim/vimfiles,/usr/share/vim/vim82,/usr/share/vim/vimfiles/after,/etc/vim/after,/var/lib/vim/addons/after,/nfs/homes/malzaim/.vim/after"
+Searching for "/nfs/homes/malzaim/.vim/syntax/syncolor.vim"
+Searching for "/nfs/homes/malzaim/.vim/plugged/c_formatter_42.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/etc/vim/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim82/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim82/syntax)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim82/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim82/syntax/syncolor.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/etc/vim/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/nfs/homes/malzaim/.vim/after/syntax/syncolor.vim"
+
+Executing BufWrite Autocommands for "*"
+autocommand call s:update ()
+
+calling <SNR>25_update
+
+calling <SNR>25_filetype
+
+calling <SNR>25_filename
+
+<SNR>25_filename returning 'ft_strlen.c'
+
+continuing in <SNR>25_filetype
+
+<SNR>25_filetype returning #0
+
+continuing in <SNR>25_update
+
+calling <SNR>25_line
+
+calling <SNR>25_filename
+
+<SNR>25_filename returning 'ft_strlen.c'
+
+continuing in <SNR>25_line
+
+calling <SNR>25_ascii
+
+<SNR>25_ascii returning '      :+:      :+:    :+:'
+
+continuing in <SNR>25_line
+
+calling <SNR>25_textline
+
+<SNR>25_textline returning '/*   ft_strlen.c                     ...              :+:      :+:    :+:   */'
+
+continuing in <SNR>25_line
+
+<SNR>25_line returning '/*   ft_strlen.c                     ...              :+:      :+:    :+:   */'
+
+continuing in <SNR>25_update
+
+<SNR>25_update returning #0
+
+continuing in BufWrite Autocommands for "*"
+
+"ft_strlen.c" 
+"ft_strlen.c" 30L, 1107B written
+Writing viminfo file "/nfs/homes/malzaim/.viminfo"
