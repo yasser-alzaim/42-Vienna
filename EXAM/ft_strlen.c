@@ -1,29 +1,32 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_strncpy.c                                       :+:      :+:    :+:   */
+/*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: malzaim <malzaim@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/17 10:16:49 by malzaim           #+#    #+#             */
-/*   Updated: 2024/01/31 00:19:08 by malzaim          ###   ########.fr       */
+/*   Created: 2024/01/30 23:34:08 by malzaim           #+#    #+#             */
+/*   Updated: 2024/01/30 23:34:21 by malzaim          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-char	*ft_strncpy(char *dest, char *src, unsigned int n)
+/*Assignment name  : ft_strlen
+Expected files   : ft_strlen.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Write a function that returns the length of a string.
+
+Your function must be declared as follows:
+
+int	ft_strlen(char *str);*/
+
+int		ft_strlen(char *str)
 {
-	unsigned int	i;
+	int i;
 
 	i = 0;
-	while (src[i] != '\0' && i < n)
-	{	
-		dest[i] = src[i];
+	while (str[i])
 		i++;
-	}
-	while (i < n)
-	{
-		dest[i] = '\0';
-		i++;
-	}
-	return (dest);
+	return (i);
 }
